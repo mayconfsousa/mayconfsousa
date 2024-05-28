@@ -76,7 +76,7 @@ While most of my experience has been in developing web based systems, I also hav
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30" />
   </a>
   <a href="https://aws.amazon.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" height="30" />
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="30" height="30" />
