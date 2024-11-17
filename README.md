@@ -16,11 +16,9 @@ While most of my experience has been in developing web based systems, I also hav
 
 </p>
 
-<!--
 <div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=mayconfsousa&theme=dark&show_icons=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=mayconfsousa&theme=dark&show_icons=true&count_private=true"/>
 </div>
---!>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
